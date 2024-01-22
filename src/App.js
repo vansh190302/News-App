@@ -1,5 +1,5 @@
 import './App.css';
-import React, { Component, useState } from 'react'
+import React, { Component} from 'react'
 import Navbar from './components/Navbar.js'
 import News from './components/News.js'
 import {
